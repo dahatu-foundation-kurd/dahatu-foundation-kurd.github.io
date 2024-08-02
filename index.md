@@ -1,19 +1,18 @@
 ---
-title: Home
 layout: home
+title: Serekî
+nav_order: 1
 ---
 
-*داهاتوو*
+# *dahatu*
 
-داهاتوو، بانگه‌وازێکی  نیشتیمانییه‌ بۆ خوێندکارانی کورد،  پڕۆژه‌یه‌کی خۆبه‌خشانه‌ی قازانجنه‌وییسته‌ و هه‌وڵده‌دات ئاواته‌کانی فێرخوازی کورد  زیندوو بکاته‌وه‌، به‌ ناساندنی ده‌رفه‌تی خوێندن له‌ چین، ئه‌وروپا، ئه‌مریکا و وڵاتانی دیکه‌، و ڕێگایان  به‌ره‌و داهاتوییەکی گه‌شاوه‌ ڕۆشن بکاته‌وە.
+Dahatu, bangewazêkî niştîmanîye bo xwêndekaranî kurd, projeyekî xobexşaney qazancnewîste û hewldedat awatekanî fêrxwazî kurd zîndu bikatewe, be nasandinî derfetî xwêndin le çîn, ewrupa, emrîka û wilatanî dîke, û rêgayan berew dahatuyekî geşawe roşin bikatewe.
 
-# *ئه‌رکی ئێمه‌*
-ئه‌رکی داهاتوو تێکشکاندنی ئه‌و به‌ربه‌ستانه‌یه‌ که‌ ڕێگر له‌ ئاشنابوونی ده‌رففه‌تی خوێندن و خۆ به‌ره‌وپێشبردن له‌بواری ئه‌کادیمی و پیشه‌یی بۆ خوێندکارانی کورد و به‌هێزکردنی خوێندکارانی کورد بۆ گه‌یشتن به‌ توانا ته‌واوه‌کانیان. ئێمه‌ پێمان وایه‌ هه‌موو گه‌نجێکی کورد شایه‌نی ئه‌وه‌یه‌ ده‌رفه‌تی خوێندن و خۆبه‌ره‌وپێشبردنی   له‌ چین(ئو وڵاتانی دیکه‌) هه‌یه‌، به‌بێ گوێدانه‌ پێشینه‌ و بارودۆخی دارایی و جیاوزی بۆچوون.
+# *erkî ême*
+Erkî dahatu têkşikandinî ew berbestaneye ke rêgir le aşnabunî derffetî xwêndin û xo berewpêşbirdin lebwarî ekadîmî û pîşeyî bo xwêndekaranî kurd û behêzkirdinî xwêndekaranî kurd bo geyştin be twana tewawekaniyan. ême pêman waye hemu gencêkî kurd şayenî eweye derfetî xwêndin û xoberewpêşbirdinî le çîn(u wilatanî dîke) heye, bebê gwêdane pêşîne û barudoxî darayî û cîawzî boçun.
 
-# *دیدگای ئێمە*
-ئێمه‌ داهاتوویەک پێشبینی ده‌که‌ین که‌ خوێندکارانی کورد له‌ چین له‌ ڕووی ئه‌کادیمییه‌وه‌ گه‌شه‌ بکه‌ن و به‌شدارییه‌کی مانادار له‌ کۆمه‌ڵگادا بکه‌ن و وه‌ک باڵیۆز له‌ نێوان هه‌ردوو نه‌ته‌وه‌که‌ماندا خزمه‌ت بکه‌ن. کوردستانێک ده‌بینین که‌ په‌روه‌رده‌ به‌ردی بناغه‌ی پێشکه‌وتنه‌ و گه‌نجه‌کانمان ده‌سه‌ڵاتیان پێ بدرێت بۆ ئه‌وه‌ی چاره‌نووسی خۆیان و چاره‌نووسی گه‌له‌که‌مان دیاری بکه‌ن.ن
-
-‌
+# *dîdgay ême*
+Ême dahatuyêk pêşbînî dekeyn ke xwêndekaranî kurd le çîn le ruwî ekadîmîyewe geşe biken û beşdarîyekî manadar le komelgada biken û wek balyoz le nêwan herdu netewekemanda xizmet biken. kurdistanêk debînîn ke perwerde berdî bnaġey pêşkewtine û gencekanman deselatyan pê bidrêt bo ewey çarenusî xoyan û çarenusî geleleman dîarî biken.
 
 
 
